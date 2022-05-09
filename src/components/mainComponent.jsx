@@ -107,7 +107,7 @@ class Main extends Component {
   // state = {  }
   render() {
     return (
-      <div className="App">
+      <div class="App">
         <header className="App-header p-5">
           <div className="row mb-5">
             <div className="col">
